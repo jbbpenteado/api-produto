@@ -35,4 +35,4 @@ jobs:
           push: true
           tags: |
             jbbpenteado/api-devops-bootcamp-produto:latest
-            jbbpenteado/api-devops-bootcamp-produto: ${{github.run_number}}
+            jbbpenteado/api-devops-bootcamp-produto:${{github.run_number}}

@@ -1,5 +1,5 @@
 ---
-swagger: "3.0"
+openapi: "3.0.0"
 info:
   description: "API de Cadastro de Produtos - Nova Versão"
   version: "3.0.0"
